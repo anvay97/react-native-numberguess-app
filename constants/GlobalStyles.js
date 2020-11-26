@@ -9,4 +9,4 @@ export default StyleSheet.create({
         fontFamily: 'open-sans-bold',
         fontSize: 18
     }
-})
+}) 

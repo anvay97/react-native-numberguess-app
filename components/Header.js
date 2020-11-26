@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
         paddingTop: 10,
         backgroundColor: Colors.primary,
         alignItems: 'center',
-        justifyContent: 'center'
+        justifyContent: 'center' 
     },
 
     headerTitle:{

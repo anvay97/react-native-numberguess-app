@@ -12,13 +12,13 @@ const GameOverScreen = ({rounds, userNumber, onRestart}) =>{
                     source={require('../assets/success.png')} 
                     resizeMode= 'cover'
                     />
-            </View>
+            </View> 
             <Text style={GlobalStyles.title} >No of Rounds : {rounds} </Text>
             <Text style={GlobalStyles.title} >User Number : {userNumber} </Text>
             <View style={styles.buttonContainer}>
                 <Button title='NEW GAME ' onPress={onRestart} />
             </View> 
-        </View>
+        </View> 
     )
 }
 

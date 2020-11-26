@@ -66,7 +66,7 @@ const GameScreen = ({ userChoice, onGameOver }) => {
             </Card>
         </View>
     )
-};
+};  
 
 const styles = StyleSheet.create({
     screen:{

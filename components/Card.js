@@ -9,7 +9,7 @@ const styles = StyleSheet.create({
     card:{
         shadowColor: 'black',
         shadowOffset:{
-            width: 0,
+            width: 0, 
             height: 2
         },
         shadowRadius: 6,
